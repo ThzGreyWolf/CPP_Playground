@@ -1,0 +1,15 @@
+﻿  Main.c
+h:\_freetime\playground\playground\main.c(46): warning C4013: 'strcmp' undefined; assuming extern returning int
+h:\_freetime\playground\playground\main.c(53): warning C4047: '=': 'char' differs in levels of indirection from 'void *'
+h:\_freetime\playground\playground\main.c(67): warning C4996: 'fgetchar': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _fgetchar. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(2458): note: see declaration of 'fgetchar'
+h:\_freetime\playground\playground\main.c(106): warning C4013: 'strcpy' undefined; assuming extern returning int
+h:\_freetime\playground\playground\main.c(118): warning C4996: 'fgetchar': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _fgetchar. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(2458): note: see declaration of 'fgetchar'
+h:\_freetime\playground\playground\main.c(137): warning C4047: '==': 'int' differs in levels of indirection from 'char [2]'
+h:\_freetime\playground\playground\main.c(143): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+h:\_freetime\playground\playground\main.c(194): warning C4566: character represented by universal-character-name '\u03A9' cannot be represented in the current code page (1252)
+h:\_freetime\playground\playground\main.c(202): warning C4996: 'fgetchar': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _fgetchar. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(2458): note: see declaration of 'fgetchar'
+  Playground.vcxproj -> H:\_Freetime\Playground\x64\Debug\Playground.exe

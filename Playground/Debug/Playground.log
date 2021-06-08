@@ -1,0 +1,12 @@
+﻿  Main.c
+g:\_freetime\playground\playground\main.c(34): warning C4013: 'strcmp' undefined; assuming extern returning int
+g:\_freetime\playground\playground\main.c(41): warning C4047: '=': 'char' differs in levels of indirection from 'void *'
+g:\_freetime\playground\playground\main.c(53): warning C4996: 'fgetchar': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _fgetchar. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(2458): note: see declaration of 'fgetchar'
+g:\_freetime\playground\playground\main.c(84): warning C4013: 'strcpy' undefined; assuming extern returning int
+g:\_freetime\playground\playground\main.c(96): warning C4996: 'fgetchar': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _fgetchar. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(2458): note: see declaration of 'fgetchar'
+g:\_freetime\playground\playground\main.c(131): warning C4566: character represented by universal-character-name '\u03A9' cannot be represented in the current code page (1252)
+g:\_freetime\playground\playground\main.c(148): warning C4996: 'fgetchar': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _fgetchar. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(2458): note: see declaration of 'fgetchar'
+  Playground.vcxproj -> G:\_Freetime\Playground\Debug\Playground.exe
